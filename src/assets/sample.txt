@@ -1,0 +1,458 @@
+<table style='text-decoration:none;border:none;color:black;font-size:16px;font-weight:400;border: none;border-collapse: collapse;width:100%;font-family:"Times New Roman", serif;vertical-align:middle;text-align: justify;font-style:normal;'>
+    <tbody>
+    <tr style="font-size: 12px;font-weight:700;font-family: 'Segoe UI', sans-serif;">
+        <td colspan="4" style="margin-top: -2cm !important; border: none;padding: 0 2px 0 2px;"></td>
+        <td colspan="4" style="margin-top: -2cm !important;border: none;padding: 0 2px 0 2px; text-align: right;">
+            <span style="color:#F04E23;">Ngân hàng TMCP Hàng Hải Việt Nam (MSB)</span><br>
+            <span style="font-weight: 400;">54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội</span><br>
+            <span style="font-weight: 400;">Tel:(024) 3771 8989 * Fax: (024) 3771 8899</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='height:12.0pt;width:8pt;'>
+            <br>
+        </td>
+        <td style='width:11pt;'>
+            <br>
+        </td>
+        <td style='width:75pt;'>
+            <br>
+        </td>
+        <td style='width:75pt;'>
+            <br>
+        </td>
+        <td style='width:75pt;'>
+            <br>
+        </td>
+        <td style='width:75pt;'>
+            <br>
+        </td>
+        <td style='width:75pt;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:right;width:75pt;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:black;font-size:16px;font-weight:700;text-align:center;height:15.75pt;'>
+            PHIẾU YÊU CẦU
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='text-align:center;height:12.0pt;'>
+            "V/v: Công chứng Hợp đồng thế chấp"
+        </td>
+    </tr>
+    <tr>
+        <td style='text-align:center;height:12.75pt;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+        <td style='text-align:center;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;'>
+            <b>Kính gửi:</b> <span contenteditable="true" id='sendTo'>.................................................................................................................................</span></td>
+    </tr>
+    <tr>
+        <td style='font-style:italic;text-align:center;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            Tôi người ký tên dưới đây: <span contenteditable="false" id="legalRepresentation.person.fullName">.......</span> - Chức vụ: <span contenteditable="false" id="legalRepresentation.person.positionNb">.......</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='font-style:italic;text-align:center;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            Đề nghị Quý Phòng chứng thực việc ký kết "Hợp đồng thế chấp" giữa:
+        </td>
+    </tr>
+    <tr>
+        <td style='font-style:italic;text-align:center;height:12.0pt;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:black;font-size:16px;font-weight:700;height:12.0pt;width:469pt;'>
+            BÊN THẾ CHẤP:
+        </td>
+    </tr>
+    </tbody>
+    <tbody id="collateralOwner">
+    <tr>
+        <td>
+            <br>
+        </td>
+        <td colspan="7">
+                <span contenteditable="true" id="collateralOwner[0].applicant.fullName"
+                      style='text-transform: uppercase;'>.......................</span>, sinh năm <span
+                contenteditable="true" id="collateralOwner[0].applicant.dob">.......................</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br>
+        </td>
+        <td colspan="7">
+            - <span contenteditable="true"
+                    id="collateralOwner[0].identity.sTypeNew">CCCD/Hộ chiếu/Giấy tờ khác số:</span>
+            <span contenteditable="true" id="collateralOwner[0].identity.uniqueId">.......</span> do
+            <span contenteditable="true" id="collateralOwner[0].identity.issueBy">.......</span>
+            <span notPrintIfEmpty><span contenteditable="true"
+                                        id="collateralOwner[0].identity.issueAt"></span> </span>cấp
+            ngày
+            <span contenteditable="true" id="collateralOwner[0].identity.issueDate">.......</span>.
+            <span notPrintIfEmpty='["collateralOwner[0].applicant.txtOtherPersonalIds"]' contenteditable="true"
+                  id="collateralOwner[0].applicant.txtOtherPersonalIds">&nbsp;&nbsp;</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br>
+        </td>
+        <td colspan="7">
+            - Địa chỉ hộ khẩu thường trú: <span contenteditable="true" id="collateralOwner[0].address">...</span>
+        </td>
+    </tr>
+    <tr notPrintIfEmpty='["collateralOwner[0].applicant.authorizationDoc"]'>
+        <td>
+            <br>
+        </td>
+        <td colspan="7"><span contenteditable="true"
+                              id="collateralOwner[0].applicant.authorizationDoc">&nbsp;&nbsp;</span>
+    </tr>
+    </tbody>
+    <tbody>
+    <tr>
+        <td style='height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:black;font-size:16px;font-weight:700;height:12.0pt;width:469pt;'>
+            BÊN NHẬN THẾ CHẤP: NGÂN HÀNG TMCP HÀNG HẢI VIỆT NAM - <span contenteditable='false'
+                                                                              id="legalRepresentation.fullName"
+                                                                              style='text-transform: uppercase;'>Chi nhánh
+                    ....... - Phòng Giao dịch .......</span></td>
+    </tr>
+    <tr>
+        <td style='color:black;font-size:16px;vertical-align:middle;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;vertical-align:middle;'>
+            - Đăng ký hoạt động số: <span contenteditable="true" id="legalRepresentation.registrationId">.......
+                    Nơi cấp: ....... ngày: ....... thay đổi lần thứ .......
+                    ngày: .......</span></td>
+    </tr>
+    <tr>
+        <td style='color:black;font-size:16px;vertical-align:middle;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;vertical-align:middle;'>
+            - Địa chỉ: <span contenteditable="true" id="legalRepresentation.address">.....................</span>
+        </td>
+    </tr>
+    <tr notPrintIfEmpty>
+        <td style='color:black;font-size:16px;vertical-align:middle;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;vertical-align:middle;'>
+            - Điện thoại: <span contenteditable="true" id="legalRepresentation.phoneNumber">.......</span> - Fax:
+            <span contenteditable="true" id="legalRepresentation.fax">.......</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:black;font-size:16px;vertical-align:middle;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;vertical-align:middle;'>
+            - Đại diện: <span contenteditable="true" id="legalRepresentation.person.fullName">..........................................</span>
+            - Chức vụ: <span contenteditable="true" id="legalRepresentation.person.positionNb">..........................................</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:black;font-size:16px;vertical-align:middle;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:black;font-size:16px;vertical-align:middle;'>
+            - Văn bản uỷ quyền: <span contenteditable="true" id="legalRepresentation.authorizationDocNo">.......
+                    ngày: ....... của: .......</span></td>
+    </tr>
+    <tr>
+        <td colspan="8" style="font-style:italic;"> 
+                   (Sau đây, Bên nhận thế chấp được gọi tắt là "MSB")</td>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:black;font-size:16px;font-weight:700;height:12.0pt;'>
+            BÊN ĐƯỢC CẤP TÍN DỤNG: <span contenteditable='false' id="customer.gender" style='text-transform: uppercase;'>Ông/Bà</span> <span contenteditable='false' id='customer.fullName' style='text-transform: uppercase;'>.......................</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            - <span contenteditable="true" id="customer.identity.sTypeNew">CCCD/Hộ chiếu/Giấy tờ khác số:</span>
+            <span contenteditable="true" id="customer.identity.uniqueId">.......</span> do
+            <span contenteditable="true" id="customer.identity.issueBy">.......</span>
+            <span notPrintIfEmpty><span contenteditable="true" id="customer.identity.issueAt"></span> </span>cấp
+            ngày
+            <span contenteditable="true" id="customer.identity.issueDate">.......</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            - Đăng ký hộ khẩu thường trú tại: <span contenteditable='true'
+                                                    id="customer.address">..........................</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='text-align:center;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='font-style:italic;height:12.0pt;'>
+            Đã thoả thuận ký "Hợp đồng thế chấp" như sau:
+        </td>
+    </tr>
+    <tr>
+        <td style='font-style:italic;text-align:center;height:12.0pt;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:black;font-size:16px;font-weight:700;height:12.0pt;'>
+            I. Việc ký kết Hợp đồng thế chấp bao gồm những loại giấy tờ đủ điều kiện sau:
+        </td>
+    </tr>
+    <tr>
+        <td style='height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7">
+            - <span contenteditable="false" id="mortgageCollateral.certificate">.........</span> cấp ngày
+            <span contenteditable="false" id="mortgageCollateral.issueDate">...</span>, <span
+                contenteditable="false" id='mortgageCollateral.named'>đứng tên</span> <span contenteditable="false"
+                                                                                            id="mortgageCollateral.owner">...........</span>.
+            <span notPrintIfEmpty="mortgageCollateral.detail"><span contenteditable="false"
+                                                                    id="mortgageCollateral.detail">&nbsp;&nbsp;</span>.</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            - Biên bản định giá tài sản bảo đảm tiền vay ngày <span contenteditable="true"
+                                                                    id="valuationMinute">..../..../........</span>(Bản gốc).
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            - CMND, sổ hộ khẩu của Bên thế chấp (Bản gốc).
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:15.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;width:461pt;'>
+            (Các bên sẽ mang các bản gốc những giấy tờ trên để Công chứng viên đối chiếu).
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8" style='color:windowtext;font-size:16px;font-weight:700;height:14.25pt;'>
+            II. Nội dung Công chứng:
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            1. Tên tài sản: <span contenteditable="true"
+                                  id="mortgageCollateral.mortgagegAssetType">Quyền sử dụng đất</span>
+            theo <span contenteditable="true" id="mortgageCollateral.certificate">.........</span> cấp ngày
+            <span contenteditable="true" id="mortgageCollateral.issueDate">...</span>, <span
+                contenteditable="true" id='mortgageCollateral.named'>đứng tên</span> <span contenteditable="true"
+                                                                                           id="mortgageCollateral.owner">...........</span>.
+            <span notPrintIfEmpty="mortgageCollateral.detail"><span contenteditable="true"
+                                                                    id="mortgageCollateral.detail">&nbsp;&nbsp;</span>.</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            2. Giá trị cho vay: <span contenteditable="true" id="buLoanPropose.loanAmount">.................................</span> đồng;
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:15.75pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;width:450pt;'>
+            Giá trị tài sản bảo đảm: <span contenteditable="true" id="mortgageCollateral.value">...</span> đồng;
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:29.25pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;width:461pt;'>
+            3. Các điều kiện chi tiết về việc vay và cho vay số tiền trên sẽ được ghi cụ thể trong giấy tờ về nghiệp vụ
+            ngân hàng mà Bên bảo đảm và MSB sẽ ký cụ thể tại trụ sở của MSB.
+        </td>
+    </tr>
+    <td style='color:windowtext;font-size:16px;font-weight:400;height:15.0pt;'>
+        <br>
+    </td>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;height:12.0pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            Trân trọng cảm ơn sự hợp tác của Quý Phòng./.
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;height:19.5pt;'>
+            <br>
+        </td>
+        <td colspan="7" style='color:windowtext;font-size:16px;font-weight:400;'>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;height:15.0pt;'>
+            <br>
+        </td>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;'>
+            <br>
+        </td>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;'>
+            <br>
+        </td>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;'>
+            <br>
+        </td>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;'>
+            <br>
+        </td>
+        <td colspan="3" style='color:windowtext;font-size:16px;font-weight:400;text-align:center;'>
+            <span contenteditable="true" id="address">.............., ngày .... tháng .... năm ........</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='color:windowtext;font-size:16px;font-weight:400;text-align:center;height:33.0pt;'>
+            <br>
+        </td>
+        <td style='color:windowtext;font-size:16px;font-weight:700;'>
+            <br>
+        </td>
+        <td colspan="3" style='color:windowtext;font-size:16px;font-weight:700;text-align:center;width:225pt;'>
+            <br>
+        </td>
+        <td colspan="3" style='color:windowtext;font-size:16px;font-weight:700;text-align:center;width:225pt;'>
+            ĐẠI DIỆN MSB<br><span style='color:windowtext;font-size:16px;font-weight:400;'>(Ký, đóng dấu)</span>
+        </td>
+    </tr>
+    <tr>
+        <td style='text-align:center;height:120.0pt;'>
+            <br>
+        </td>
+        <td style='font-style:italic;'>
+            <br>
+        </td>
+        <td colspan="3" style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+        <td colspan="3" style='font-style:italic;text-align:center;'>
+            <br>
+        </td>
+    </tr>
+    </tbody>
+</table>

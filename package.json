@@ -18,9 +18,11 @@
     "@angular/platform-browser": "~12.1.0",
     "@angular/platform-browser-dynamic": "~12.1.0",
     "@angular/router": "~12.1.0",
+    "@ckeditor/ckeditor5-angular": "^5.1.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "bpm-ckeditor5": "./bpm-ckeditor5/bpm-ckeditor5-0.0.1.tgz"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.1.4",
